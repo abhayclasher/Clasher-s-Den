@@ -53,9 +53,9 @@ Clasher-s-Den/
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-
+cl
 ```bash
-git clone https://github.com/yourusername/Clasher-s-Den.git
+git clone https://github.com/abhayclasher/Clasher-s-Den.git
 cd Clasher-s-Den
 ```
 
@@ -96,7 +96,7 @@ Visit [http://localhost:8000](http://localhost:8000)
 1. Push your code to GitHub
 2. Go to repository Settings → Pages
 3. Select main branch as source
-4. Your site will be live at `https://yourusername.github.io/Clasher-s-Den`
+4. Your site will be live at `https://abhayclasher.github.io/Clasher-s-Den`
 
 ### Deploy on Netlify
 
@@ -332,3 +332,4 @@ Contributions are welcome! Feel free to:
 </p>
 
 </div>
+
