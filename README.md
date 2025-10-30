@@ -267,14 +267,35 @@ Contributions are welcome! Feel free to:
 - **Invite Bot:** [Discord Invite](https://discord.com/api/oauth2/authorize?client_id=1002858272094691409&permissions=8&scope=bot)
 - **Support Server:** [Join Discord](https://discord.gg/hB6Pp73zV8)
 
-## 👨‍💻 Author
+### 👨‍💻 Developed by  
+# **Abhay Kumar**  
 
-**Abhay Kumar**
-- 📧 Email: abhaypro.cloud@gmail.com
-- 📸 Instagram: [@abhay_clasher](https://www.instagram.com/abhay_clasher/)
-- 📍 Location: Kolkata, India
+🧠 **Full Stack Web Developer** | 21 | Kolkata, India 🇮🇳  
+*Building technology that saves lives through community collaboration*
+
+### 🏆 About the Developer
+
+- 💻 Passionate about creating impactful solutions with modern web technologies
+- 🎯 Focused on healthcare accessibility and social good
+- 🎓 Self-taught developer with expertise in React, Next.js, and Firebase
+- ♟️ Hobbies: Chess, Cricket, and Open Source Contribution
 
 ---
 
-**Made with 💖 by Abhay Clasher**  
-Copyright © Clasher's Den 2022
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://abhaypro.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Portfolio-abhaypro.com-FF4747?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/abhayclasher" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abhayclasher-1C1C1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/abhayclasher" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhaypro.cloud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
