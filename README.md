@@ -4,15 +4,15 @@ A simple, multipurpose Discord bot with a modern, animated landing page. Built w
 
 ## ✨ Features
 
-- **Multi-Purpose Bot** - Customization, games, music, moderation, and more
-- **Real-time Stats** - Live server count, user count, and command usage
+- **Multi-Purpose Bot** - Customization, games, moderation, and leveling system
+- **Real-time Stats** - Live server count and user count via Statcord API
 - **Particle Effects** - Interactive particle.js background animations
 - **Smooth Animations** - AOS (Animate On Scroll) library integration
 - **Responsive Design** - Works seamlessly on mobile, tablet, and desktop
 - **Auto-typing Effect** - Dynamic text rotation using Typed.js
 - **Staff Carousel** - Owl Carousel showcasing team members
 - **Loading Animation** - Custom loader with animated fazers
-- **Scroll-to-top Button** - Smooth scrolling navigation
+- **Sticky Navigation** - Fixed navbar with smooth transitions
 
 ## 🚀 Tech Stack
 
@@ -88,11 +88,17 @@ Visit [http://localhost:8000](http://localhost:8000)
 3. Select main branch as source
 4. Your site will be live at `https://yourusername.github.io/Clasher-s-Den`
 
-### Deploy on Netlify/Vercel
+### Deploy on Netlify
 
 1. Connect your GitHub repository
 2. No build configuration needed
 3. Deploy instantly!
+
+### Deploy on Vercel
+
+1. Import your GitHub repository
+2. No build settings required
+3. Click Deploy!
 
 ## 🎨 Color Scheme
 
@@ -121,18 +127,19 @@ Visit [http://localhost:8000](http://localhost:8000)
 - Multiple interactive games
 - Claim rewards and compete
 
-### 🎵 Music
+### 🎵 Music (Coming Soon™)
 - High-quality music playback
-- YouTube and Twitch live streams
-- Voice chat integration (Coming Soon™)
+- YouTube and Twitch live streams support
+- Voice chat integration
 
 ### 🔒 Moderation
 - Powerful moderation commands
 - Server protection tools
 - Fast moderation workflow
 
-### 💻 Web Dashboard
-- Configure all settings from web interface (Coming Soon™)
+### 💻 Web Dashboard (Coming Soon™)
+- Configure all settings from web interface
+- Visual server management
 
 ### 📈 Level Up System
 - Reward active users with points and roles
@@ -239,24 +246,23 @@ Contributions are welcome! Feel free to:
 
 - [ ] Web dashboard for bot configuration
 - [ ] Music system integration
-- [ ] Admin panel with analytics
-- [ ] Multi-language support
-- [ ] Dark/light theme toggle
+- [ ] Enhanced moderation tools
+- [ ] More interactive games
 - [ ] Command list page
 - [ ] Server leaderboards
+- [ ] Premium features page
 
 ## 🔗 Links
 
 - **Invite Bot:** [Discord Invite](https://discord.com/api/oauth2/authorize?client_id=1002858272094691409&permissions=8&scope=bot)
 - **Support Server:** [Join Discord](https://discord.gg/hB6Pp73zV8)
-- **Website:** [abhaypro.com](https://abhaypro.com)
 
 ## 👨‍💻 Author
 
 **Abhay Kumar**
 - 📧 Email: abhaypro.cloud@gmail.com
-- 🌐 Website: [abhaypro.com](https://abhaypro.com)
 - 📸 Instagram: [@abhay_clasher](https://www.instagram.com/abhay_clasher/)
+- 📍 Location: Kolkata, India
 
 ---
 
