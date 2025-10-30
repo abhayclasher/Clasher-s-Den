@@ -246,11 +246,13 @@ MIT License - Feel free to use this project for any purpose.
 
 ## 🤝 Contributing
 
+<div align="center">
+
 Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Improve documentation
+
+✨ Report bugs | 💡 Suggest features | 🔧 Submit pull requests | 📚 Improve documentation
+
+</div>
 
 ## 💡 Future Enhancements
 
@@ -267,35 +269,66 @@ Contributions are welcome! Feel free to:
 - **Invite Bot:** [Discord Invite](https://discord.com/api/oauth2/authorize?client_id=1002858272094691409&permissions=8&scope=bot)
 - **Support Server:** [Join Discord](https://discord.gg/hB6Pp73zV8)
 
+## ❤️ Credits  
+
+<div align="center">
+
 ### 👨‍💻 Developed by  
 # **Abhay Kumar**  
 
-🧠 **Full Stack Web Developer** | 21 | Kolkata, India 🇮🇳  
-*Building technology that saves lives through community collaboration*
+🧠 **Full Stack Developer & Bot Creator** | 21 | Kolkata, India 🇮🇳  
+*Building engaging Discord experiences with modern web technologies*
 
 ### 🏆 About the Developer
 
-- 💻 Passionate about creating impactful solutions with modern web technologies
-- 🎯 Focused on healthcare accessibility and social good
-- 🎓 Self-taught developer with expertise in React, Next.js, and Firebase
-- ♟️ Hobbies: Chess, Cricket, and Open Source Contribution
+- 💻 Passionate about creating beautiful and functional web interfaces
+- 🎯 Focused on community engagement and user experience
+- 🎓 Self-taught developer with expertise in JavaScript, Discord.js, and Web Design
+- ♟️ Hobbies: Chess, Cricket, and Programming
 
 ---
 
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://abhaypro.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌍_Portfolio-abhaypro.com-FF4747?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
   <a href="https://github.com/abhayclasher" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-abhayclasher-1C1C1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/abhayclasher" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.instagram.com/abhay_clasher/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@abhay__clasher-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:abhaypro.cloud@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://discord.gg/hB6Pp73zV8" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
+---
+
+### 💭 Project Philosophy
+
+<p align="center">
+  <em>"Building communities, one command at a time."</em>
+  <br><br>
+  This project was born from a passion for creating <strong>engaging Discord experiences</strong>.<br>
+  Clasher's Den combines functionality with beautiful design to bring<br>
+  communities together through games, moderation, and customization.<br><br>
+  <strong>Simple. Powerful. Made with love.</strong>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <strong>If you find this project useful, please star it!</strong> ⭐<br>
+  Your support helps improve the bot and encourages continued development.
+</p>
+
+<p align="center">
+  <br>
+  💖 <strong>Made with love in India</strong> 🇮🇳<br>
+  <sub>Dedicated to all Discord communities bringing people together</sub>
+</p>
+
+</div>
